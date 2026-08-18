@@ -1,0 +1,16 @@
+Order ID,Customer Name,Region,Product,Quantity,Unit Price,Order Date,Status
+1001, alice ,North,Laptop,2,55000,2026-07-01,Completed
+1002,BOB,south ,Mouse,3,750,2026/07/02,completed
+1003,Charlie,EAST,Keyboard,,1500,03-07-2026,Pending
+1004, alice,North,Monitor,1,12000,2026-07-04,Completed
+1005,David ,west,Laptop,1,,2026-07-05,Completed
+1006,BOB ,South,Mouse,5,750,,Cancelled
+1007,Eve, east ,Keyboard,2,1500,2026-07-07,COMPLETED
+1008,Charlie ,East,Monitor,2,12000,2026-07-08,Completed
+1009,alice,north,Laptop,1,55000,2026-07-09,completed
+1010,Frank,West,Mouse,4,750,2026-07-10,Pending
+1011,Eve ,East,Keyboard,1,1500,2026-07-11,Completed
+1011, Eve,East ,Keyboard,1,1500,2026-07-11,Completed
+1012,David,WEST,Laptop,2,55000,2026-07-12,Completed
+1013,Grace,North,Monitor,1,12000,2026-07-13,Pending
+1014,Frank , west ,Mouse,2,750,2026-07-14,Completed

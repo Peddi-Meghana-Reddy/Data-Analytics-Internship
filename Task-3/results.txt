@@ -1,0 +1,14 @@
+Week 3 Task 3 execution summary
+
+Original rows: 15
+Original columns: 8
+Duplicate rows removed: 0
+Final rows after cleaning and filtering: 10
+Final columns: 9
+Remaining missing values: 1
+
+Filter:
+status == Completed AND total_sales > 1000
+
+New column:
+total_sales = quantity * unit_price

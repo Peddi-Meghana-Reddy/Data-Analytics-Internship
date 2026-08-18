@@ -1,0 +1,11 @@
+order_id,customer_name,region,product,quantity,unit_price,order_date,status,total_sales
+1001,alice,North,Laptop,2.0,55000.0,2026-07-01,Completed,110000.0
+1004,alice,North,Monitor,1.0,12000.0,2026-07-04,Completed,12000.0
+1005,David,West,Laptop,1.0,1500.0,2026-07-05,Completed,1500.0
+1007,Eve,East,Keyboard,2.0,1500.0,2026-07-07,Completed,3000.0
+1008,Charlie,East,Monitor,2.0,12000.0,2026-07-08,Completed,24000.0
+1009,alice,North,Laptop,1.0,55000.0,2026-07-09,Completed,55000.0
+1011,Eve,East,Keyboard,1.0,1500.0,2026-07-11,Completed,1500.0
+1012,David,West,Laptop,2.0,55000.0,2026-07-12,Completed,110000.0
+1014,Frank,West,Mouse,2.0,750.0,2026-07-14,Completed,1500.0
+1002,BOB,South,Mouse,3.0,750.0,,Completed,2250.0
