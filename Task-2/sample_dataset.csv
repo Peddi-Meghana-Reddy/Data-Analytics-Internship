@@ -1,0 +1,201 @@
+order_id,customer_name,order_date,category,sub_category,product_name,quantity,unit_price,total_price,region
+1000,Caleb Dav,2025-01-:,Clothing,Jeans,Jeans Try,2,1197.0,2394.0,West
+1001,Misty Her,2025-05-C,Clothing,Jeans,Jeans Nev,9,1509.0,13581.0,South
+1002,Rick Soto,2025-06-(,Clothing,Shoes,Shoes Us,5,1046.0,5230.0,East
+1003,Sean Haa:,2025-02-2,Furniture,Desk,Desk Sect,10,292.0,2920.0,South
+1004,Ann Hall,2025-06-C,Furniture,Cabinet,Cabinet C,2,548.0,1096.0,North
+1005,Michelle \,2025-02-C,Furniture,Desk,Desk Poin,2,2729.0,5458.0,South
+1006,Breanna ¢,2025-04-(,Grocery,Bread,Bread Bla,6,4356.0,26136.0,East
+1007,Angela Ri,2025-06-1,Furniture,Chair,Chair Beli,7,2971.0,20797.0,West
+1008,Emily And,2025-02-2,Electronic,Mobile,| Mobile Ev,10,701.0,7010.0,North
+1009,Laura Anc,,Grocery,Snacks,Snacks Ca,1,4454.0,4454.0,East
+1010,Ryan Smit,2025-01-(,Electronic,Laptop,_ Laptop Fit,2,4917.0,9834.0,South
+1011,Valerie Hc,,Furniture,Couch,= Couch Ch,10,1759.0,17590.0,West
+1012,Kyle Kirby,,Grocery,Juice,Juice Cou!,10,781.0,7810.0,South
+1013,Barry Joh!,,Grocery,Juice,Juice Stafi,1,2754.0,2754.0,East
+1014,Dawn Edv,,Grocery,Juice,Juice Qua,7,737.0,5159.0,South
+1015,Kylie Cox,2025-05-C,Clothing,Jeans,Jeans Few,3,1559.0,4677.0,East
+1016,Rachel Wi,,Grocery,Bread,Bread Skil,2,2413.0,4826.0,West
+1017,Tracy Will,,Clothing,Jeans,Jeans Son,3,3222.0,9666.0,South
+1018,Richard,,Furniture,Cabinet,Cabinet A,6,4966.0,29796.0,North
+1019,Debbie Tu,,Grocery,Snacks,Snacks So,10,4499.0,44990.0,West
+1020,Roy Stew:,2025-02-2,Electronic,Mobile,| Mobile Ct,5,2660.0,13300.0,North
+1021,Michelle |,2025-04-2,Clothing,Shirt,Shirt Carr,2,732.0,1464.0,North
+1022,Benjamin,2025-04-:,Clothing,Shoes,Shoes Job,10,2056.0,20560.0,East
+1023,Nicholas f,,Furniture,Cabinet,Cabinet Ti,1,262.0,262.0,East
+1024,Jodi Smitt,2025-01-:,Grocery,Bread,Bread Pas,6,4511.0,27066.0,East
+1025,Michael \,2025-03-1,Furniture,Chair,Chair Con,2,1360.0,2720.0,South
+1026,Kerry Moi,2025-01-(,Grocery,Bread,Bread Bak,8,2262.0,18096.0,South
+1027,Luis Ward,2025-04-1,Furniture,Desk,Desk Fina,1,1711.0,1711.0,North
+1028,Abigail Po,2025-05-2,Clothing,Shoes,Shoes Hei,1,2195.0,2195.0,West
+1029,Nicholas,,Grocery,Milk,Milk Youn,9,1305.0,11745.0,East
+1030,Ashley Joy,2025-05-1,Electronic,Headphor,Headphor,9,2864.0,25776.0,South
+1031,Robert Le,2025-04-1,Furniture,Couch,Couch Ba:,4,1142.0,4568.0,North
+1032,Mary Stev,2025-01-(,Grocery,Bread,Bread Toc,6,1054.0,6324.0,East
+1033,Emily Ray,,Electronic,Laptop,Laptop Se,6,2564.0,15384.0,North
+1034,James Sm,2025-02-(,Grocery,Snacks,Snacks Ar,7,548.0,3836.0,East
+1035,Bradley,,Grocery,Bread,Bread Sor,9,1006.0,9054.0,West
+1036,John Hug!,2025-01-2,Furniture,Couch,= Couch Fot,5,2671.0,13355.0,West
+1037,Eric Ande,,Furniture,Cabinet,Cabinet H,1,3500.0,3500.0,West
+1038,Walter Pe,2025-03-(,Electronic,Laptop,Laptop M,1,253.0,253.0,North
+1039,Robert Be,2025-02-1,Furniture,Desk,Desk Shov,5,2697.0,13485.0,West
+1040,Emily Coll,2025-06-C,Grocery,Juice,Juice Toge,7,998.0,6986.0,North
+1041,Neil Brow,2025-03-1,Furniture,Chair,Chair Deb,1,847.0,847.0,South
+1042,David Nor,,Clothing,Shoes,Shoes Far,7,3445.0,24115.0,South
+1043,Matthew,,Clothing,Jacket,Jacket Car,1,2410.0,2410.0,South
+1044,Becky Car,,Electronic,Tablet,Tablet Pre,4,1351.0,5404.0,North
+1045,Denise W,,Grocery,Snacks,Snacks Po,2,3160.0,6320.0,South
+1046,Julian Wh,2025-01-2,Furniture,Chair,Chair Amc,10,1397.0,13970.0,East
+1047,Larry Mar,,Grocery,Snacks,Snacks Liv,5,1029.0,5145.0,South
+1048,Debra Swi,2025-01-2,Furniture,Chair,Chair Whi,3,2006.0,6018.0,East
+1049,Melissa R,,Clothing,Shoes,Shoes See,7,1900.0,13300.0,South
+1050,Laura Ran,2025-02-27,Electronic,Mobile,| Mobile De,3,1892.0,5676.0,South
+1051,David Skir,,Clothing,Jacket,Jacket Re,3,496.0,1488.0,South
+1052,William K',,Grocery,Bread,Bread Sur,5,3550.0,17750.0,North
+1053,Christine,2025-05-€,Clothing,Shirt,Shirt Com,9,270.0,2430.0,West
+1054,Sharon M,,Furniture,Couch,= Couch Mc,1,3885.0,3885.0,South
+1055,Whitney |,2025-05-(,Electronic,Mobile,| Mobile Pe,2,4750.0,9500.0,North
+1056,William G,2025-04-2,Furniture,Cabinet,Cabinet VW,1,1201.0,1201.0,East
+1057,Matthew,,Grocery,Milk,Milk Towr,2,4977.0,9954.0,South
+1058,Tara Garn,2025-04-C,Clothing,Jeans,Jeans Foo,5,203.0,1015.0,East
+1059,Miss Rebe,2025-02-2,Clothing,Shirt,Shirt Look,6,4794.0,28764.0,East
+1060,Rebecca L,,Furniture,Chair,Chair Ever,1,390.0,390.0,South
+1061,Sharon Ct,2025-05-C,Grocery,Bread,Bread The,9,3153.0,28377.0,South
+1062,Jessica He,2025-05-2,Clothing,Shoes,Shoes Car,7,3208.0,22456.0,East
+1063,Jacob Her,,Electronic,Tablet,Tablet Jot,1,4327.0,4327.0,South
+1064,Brandon,,Electronic,Tablet,Tablet Ide,2,3337.0,6674.0,North
+1065,Garrett Gi,2025-03-2,Furniture,Couch,— Couch Vie,6,4216.0,25296.0,West
+1066,Robert Lo,,Clothing,Jeans,Jeans Cut,2,4553.0,9106.0,South
+1067,Lauren Hi,2025-03-2,Electronic,Laptop,—_ Laptop St:,8,3649.0,29192.0,West
+1068,Michael T,2025-03-C,Furniture,Couch,— Couch Sig,1,2763.0,2763.0,South
+1069,Michele V,2025-06-C,Electronic,Mobile,| Mobile Bc,9,2320.0,20880.0,South
+1070,Patrick W.,2025-01-C,Furniture,Desk,Desk Wot,8,4710.0,37680.0,West
+1071,Mr. Danie,2025-03-2,Furniture,Cabinet,Cabinet A,4,4448.0,17792.0,West
+1072,Laura Hay,2025-06-C,Furniture,Cabinet,Cabinet R,7,2151.0,15057.0,South
+1073,Katie Jack 2024-12-2,,Electronic,Headphor,Headphor,2,4663.0,9326.0,West
+1074,Cassandré,,Electronic,Laptop,Laptop Va,9,2431.0,21879.0,West
+1075,Vanessa \,,Electronic,Laptop,Laptop La,4,203.0,812.0,East
+1076,Robert Hc,2025-06-C,Electronic,Tablet,— Tablet Im),4,1188.0,4752.0,West
+1077,Amy Davi:,2025-06-1,Furniture,Chair,Chair Foo,9,263.0,2367.0,East
+1078,Robin,,Grocery,Snacks,Snacks Int,4,247.0,988.0,West
+1079,Christoph,,Clothing,Jacket,Jacket Exe,5,549.0,2745.0,West
+1080,James Ali,2025-02-1,Electronic,Headphor,Headphor,2,972.0,1944.0,North
+1081,Mrs. Wen,2025-03-1,Furniture,Desk,Desk Plac,3,990.0,2970.0,North
+1082,Kenneth |,2025-05-(,Clothing,Jacket,Jacket Re,7,3486.0,24402.0,West
+1083,Erin Barke,2025-02-C,Furniture,Couch,= Couch Thi,3,1533.0,4599.0,South
+1084,Karen Rya,2025-04-(,Furniture,Cabinet,Cabinet Ir,9,870.0,7830.0,South
+1085,Shelly Sny,,Furniture,Cabinet,Cabinet T,9,2067.0,18603.0,East
+1086,Michael €,2025-05-1,Electronic,Headphor,Headphor,1,949.0,949.0,North
+1087,Jennifer A,2025-03-C,Electronic,Mobile,— Mobile Al,6,1432.0,8592.0,West
+1088,Gina Mcki,2025-02-C,Furniture,Cabinet,Cabinet O,4,2396.0,9584.0,South
+1089,Maria Col,2025-02-72,Electronic,Tablet,Tablet My,4,3040.0,12160.0,North
+1090,Emily Ben,2025-04-(,Electronic,Laptop,—_ Laptop In,1,4298.0,4298.0,East
+1091,Michael S,,Furniture,Couch,Couch Ne,4,3773.0,15092.0,East
+1092,Kevin And,,Clothing,Shoes,Shoes Hin,8,2664.0,21312.0,South
+1093,Kathleen ',2025-02-(,Grocery,Bread,Bread Thc,6,4479.0,26874.0,West
+1094,Brittany R,2025-06-(,Electronic,Tablet,Tablet Ge,6,3230.0,19380.0,West
+1095,Pam Tapie,2025-04-2,Grocery,Bread,Bread Wi,3,4005.0,12015.0,North
+1096,Daniel Tot,,Electronic,Tablet,Tablet Co1,7,3698.0,25886.0,East
+1097,Daniel Ca,2025-04-2,Electronic,Headphor,Headphor,2,643.0,1286.0,North
+1098,Mary Gar,2025-06-C,Grocery,Milk,Milk Exec,3,1830.0,5490.0,East
+1099,Amanda F,2025-04-2,Clothing,Jeans,Jeans Far,5,4419.0,22095.0,South
+1100,Meagan N,2025-05-2,Electronic,Headphor,Headphor,2,442.0,884.0,South
+1101,Cynthia W,2025-01-2,Electronic,Tablet,Tablet Mz,1,629.0,629.0,North
+1102,Brittany L,2025-06-C,Clothing,Shirt,Shirt Civil,4,1864.0,7456.0,East
+1103,Tracey Jot,2025-05-1,Electronic,Tablet,Tablet Lef,4,2895.0,11580.0,South
+1104,Brian Butl,2025-05-2,Electronic,Headphor,Headphor,5,3585.0,17925.0,North
+1105,George Hi,,Grocery,Juice,Juice Sort,10,97.0,970.0,West
+1106,Tiffany Ke,2025-03-2,Furniture,Desk,Desk Fill,3,4569.0,13707.0,North
+1107,Stacy Bro:,,Furniture,Chair,Chair Sect,1,4643.0,4643.0,North
+1108,Joshua,,Grocery,Snacks,Snacks Re,1,243.0,243.0,East
+1109,Scott Rory,2025-05-(,Grocery,Juice,Juice Part,3,3121.0,9363.0,East
+1110,John Mari,,Electronic,Mobile,| Mobile Ct,8,3426.0,27408.0,South
+1111,Willie Fos,2025-02-C,Clothing,Shoes,Shoes Cht,9,2149.0,19341.0,West
+1112,Robert Ke,2025-04-:,Clothing,Shirt,Shirt Sout,3,1417.0,4251.0,South
+1113,Ronnie Br,,Grocery,Milk,Milk Seek,9,2418.0,21762.0,North
+1114,Stephanie,2025-06-(,Grocery,Milk,Milk Posit,8,4322.0,34576.0,West
+1115,Gary Osb« 2024-12-2,,Electronic,Tablet,Tablet Wc,9,3236.0,29124.0,East
+1116,Ms. Sheile,2025-03-1,Furniture,Cabinet,Cabinet A,6,3843.0,23058.0,East
+1117,Michael L,,Grocery,Milk,Milk Ball,9,1568.0,14112.0,West
+1118,Joshua Ne,2025-04-1,Electronic,Mobile,— Mobile Bt,5,2734.0,13670.0,East
+1119,Anna Brov,2025-04-1,Furniture,Chair,Chair Fine,3,1556.0,4668.0,North
+1120,Rick Sanfc,2025-05-1,Furniture,Chair,Chair Afte 9,4579,0.0,41211.0,South
+1121,Amanda \,2025-02-C,Electronic,Tablet,Tablet For,2,2398.0,4796.0,South
+1122,Courtney,,Grocery,Bread,Bread Soc,8,3487.0,27896.0,South
+1123,Derrick Be,,Grocery,Snacks,Snacks En,2,1473.0,2946.0,East
+1124,Lori Thorr,2025-06-2,Electronic,Mobile,| Mobile St,1,545.0,545.0,South
+1125,Lynn Garr,,Grocery,Snacks,Snacks W,10,4794.0,47940.0,East
+1126,Zachary J¢,2025-05-2,Electronic,Laptop,Laptop Cc,10,2162.0,21620.0,South
+1127,Mary Balc,,Furniture,Chair,Chair Ope,1,2834.0,2834.0,East
+1128,Gregory,,Clothing,Jacket,Jacket Imi,8,2822.0,22576.0,South
+1129,Natalie M,2025-01-C,Electronic,Mobile,| Mobile Pr,1,79.0,79.0,East
+1130,Tiffany Co,2025-03-C,Furniture,Chair,Chair Higt,3,3372.0,10116.0,East
+1131,Matthew,2025-01-2,Furniture,Cabinet,Cabinet C,6,3063.0,18378.0,North
+1132,Paul Kenn,,Clothing,Jeans,Jeans Perl,6,515.0,3090.0,East
+1133,Aaron Me,,Grocery,Milk,Milk Offic,2,2037.0,4074.0,North
+1134,Sandra Ta,,Furniture,Cabinet,Cabinet W,7,3981.0,27867.0,South
+1135,Richard C:,2025-03-2,Furniture,Cabinet,Cabinet V,5,1227.0,6135.0,South
+1136,Natalie Ki,,Clothing,Shirt,Shirt Disci,7,86.0,602.0,West
+1137,Matthew,,Furniture,Chair,Chair Tha,6,3508.0,21048.0,South
+1138,Brian Lon;,2025-05-C,Clothing,Shirt,Shirt Thro,10,877.0,8770.0,South
+1139,Miguel Fit,,Furniture,Couch,— Couch Fir:,1,844.0,844.0,East
+1140,Scott Johr,2025-03-(,Grocery,Juice,Juice Usui,3,3539.0,10617.0,West
+1141,Alicia Rey,,Grocery,Snacks,Snacks Re,1,745.0,745.0,East
+1142,Trevor Stu,2025-03-C,Furniture,Cabinet,Cabinet If,9,2106.0,18954.0,West
+1143,Matthew,2025-06-27,Electronic,Laptop,Laptop Sk,7,3488.0,24416.0,South
+1144,Antonio R,2025-05-2,Electronic,Headphor,Headphor,3,297.0,891.0,West
+1145,Sheila Boc,2025-06-C,Electronic,Laptop,Laptop Re,7,1831.0,12817.0,North
+1146,Anna Stor,,Grocery,Snacks,Snacks Se,10,1796.0,17960.0,South
+1147,Angela Ja:,,Grocery,Milk,Milk Estat,9,1503.0,13527.0,West
+1148,Joshua M,2025-03-:,Furniture,Cabinet,Cabinet 0,8,2307.0,18456.0,South
+1149,Todd Barr,2025-02-(,Furniture,Chair,Chair Hop,8,4519.0,36152.0,North
+1150,Laura Ma’,2025-03-2,Electronic,Headphor,Headphor,2,4997.0,9994.0,East
+1151,Sara Morg,2025-05-€,Furniture,Desk,Desk Put,2,2344.0,4688.0,South
+1152,Christoph,2025-03-C,Grocery,Snacks,Snacks Bu,7,283.0,1981.0,South
+1153,Brandon | 2024-12-2,,Electronic,Laptop,Laptop Ne,6,4009.0,24054.0,South
+1154,Christine,,Grocery,Juice,Juice Bar,4,4996.0,19984.0,South
+1155,Andrew Li,2025-04-1,Electronic,Headphor,Headphor,3,1649.0,4947.0,South
+1156,Deborah (,2025-01-1,Furniture,Chair,Chair Pus!,1,593.0,593.0,West
+1157,Patricia G,2025-03-2,Clothing,Jacket,Jacket Sor,7,3915.0,27405.0,East
+1158,Timothy,,Grocery,Milk,Milk Little,6,4903.0,29418.0,South
+1159,Alan Bark,2025-06-1,Electronic,Mobile,— Mobile Er,3,363.0,1089.0,North
+1160,Michelle f,2025-03-2,Furniture,Desk,Desk Me,9,4719.0,42471.0,East
+1161,Katherine,2025-06-C,Clothing,Shoes,Shoes Vis,2,3176.0,6352.0,North
+1162,Wayne Lu,,Furniture,Chair,Chair Imp,1,2876.0,2876.0,West
+1163,Tiffany Ba,2025-01-C,Clothing,Jeans,Jeans Anc,1,2583.0,2583.0,North
+1164,Mark Jon¢,2025-03-2,Electronic,Tablet,Tablet Mc,3,1032.0,3096.0,South
+1165,Stephen |,,Furniture,Chair,Chair Red,4,1304.0,5216.0,East
+1166,Eric Floyd,,Electronic,Tablet,Tablet Big,1,3926.0,3926.0,East
+1167,Julie Adar,2025-03-(,Grocery,Snacks,Snacks Mi,7,4444.0,31108.0,East
+1168,Megan Ct,2025-03-27,Clothing,Jeans,Jeans Cari,10,4462.0,44620.0,West
+1169,Margaret,2025-04-2,Furniture,Chair,Chair Any,7,2528.0,17696.0,North
+1170,Joshua Kit,2025-06-2,Furniture,Chair,Chair Clos,7,2140.0,14980.0,South
+1171,David Dor,2025-03-(,Clothing,Shoes,Shoes Eac,8,2902.0,23216.0,South
+1172,Molly Hal,2025-05-C,Electronic,Headphor,Headphor,1,1847.0,1847.0,West
+1173,Brenda St,2025-04-2,Electronic,Laptop,—_ Laptop Pir,1,3982.0,3982.0,South
+1174,"Kimberly ,",2025-04-(,Furniture,Desk,Desk Prev,7,4536.0,31752.0,North
+1175,David Ber,2025-04-1,Furniture,Desk,Desk Bag 9,2717,0.0,24453.0,North
+1176,Christine,,Clothing,Jacket,Jacket Exe,9,668.0,6012.0,South
+1177,Jenna Wa,2025-05-C,Furniture,Couch,Couch Tor,1,4199.0,4199.0,East
+1178,Jennifer F,2025-02-2,Electronic,Mobile,— Mobile Hi,4,209.0,836.0,North
+1179,Alexander,2025-05-C,Clothing,Jacket,Jacket Ind,8,1464.0,11712.0,West
+1180,Hailey Col,,Clothing,Jacket,Jacket He,6,4285.0,25710.0,East
+1181,Christine ',2025-02-C,Furniture,Cabinet,Cabinet P,2,3057.0,6114.0,East
+1182,Shannon |,2025-01-2,Electronic,Headphor,Headphor,6,4594.0,27564.0,West
+1183,Sarah Bro,2025-01-72,Electronic,Laptop,Laptop St:,1,1511.0,1511.0,East
+1184,Gina Bust,2025-03-C,Electronic,Laptop,Laptop Er,9,3466.0,31194.0,South
+1185,Christoph,,Grocery,Bread,Bread Str:,3,3087.0,9261.0,South
+1186,Maxwell (,2025-04-2,Clothing,Shoes,Shoes Sev,2,4077.0,8154.0,North
+1187,Katherine,,Grocery,Snacks,Snacks Tu,1,500.0,500.0,South
+1188,Elizabeth,,Furniture,Desk,Desk Disc,2,3346.0,6692.0,West
+1189,Laura Smi,2025-03-72,Clothing,Shoes,Shoes Scit,9,1358.0,12222.0,North
+1190,Christoph,,Grocery,Milk,Milk Best,8,4665.0,37320.0,East
+1191,Tim Gross,,Grocery,Bread,Bread By,3,4799.0,14397.0,West
+1192,Scott Smii,2025-04-(,Grocery,Milk,Milk Factc,1,727.0,727.0,North
+1193,Evan Hen!,,Grocery,Bread,Bread City,7,2351.0,16457.0,South
+1194,Eric Bell,2025-04-C,Electronic,Headphor,Headphor,2,2202.0,4404.0,East
+1195,Dylan Bax,,Clothing,Jeans,Jeans Sou,7,798.0,5586.0,South
+1196,Brandon,,Grocery,Snacks,Snacks Le,3,3116.0,9348.0,East
+1197,Angela,,Furniture,Cabinet,Cabinet N,1,1396.0,1396.0,South
+1198,Marissa A,2025-06-C,Grocery,Milk,Milk Liste,6,461.0,2766.0,West
+1199,Timothy \,2025-01-27,Clothing,Shirt,Shirt Area,4,2299.0,9196.0,West

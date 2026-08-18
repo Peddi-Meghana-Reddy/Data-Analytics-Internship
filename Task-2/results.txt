@@ -1,0 +1,25 @@
+Week 2 – Task 2 Results
+=========================
+
+Input rows: 200
+Input columns: 10
+
+Missing values before cleaning:
+- order_date: 75
+- all other columns: 0
+
+Exact duplicate rows: 0
+Duplicate order_id values: 0
+
+Cleaning:
+- Blank/missing values were normalized to Pandas NA.
+- Numeric missing values would be filled with the column median.
+- Categorical/text missing values were filled with the column mode.
+- Exact duplicate rows were removed.
+- Duplicate order_id values were removed, keeping the first occurrence.
+
+Output rows: 200
+Missing values after cleaning: 0
+
+Note:
+The supplied sample dataset is a scanned/table PDF. The 75 missing order_date values in the reconstructed CSV are OCR/extraction gaps and should not be interpreted as confirmed missing dates in the original source.
